@@ -43,6 +43,7 @@ In my academic curriculum, I am currently developing skills in programming langu
 </div>
 
 ### 🛠 Current Projects
-* [**AVR ATtiny13 Libs**](https://github.com/Antoinepolo/AVR-Bare-Metal) <sub>![C](https://img.shields.io/badge/Language-C-blue) ![AVR](https://img.shields.io/badge/MCU-AVR-orange)</sub>
-  * Highly optimized, bare-metal C libraries for ATtiny microcontrollers.
+* [**AVR Programming**](https://github.com/Antoinepolo/AVR-Bare-Metal) <sub>![C](https://img.shields.io/badge/Language-C-blue) ![AVR](https://img.shields.io/badge/MCU-AVR-orange)</sub>
+  * Highly optimized, bare-metal C libraries for ATtiny and ATmega microcontrollers.
   * Focused on direct register manipulation and minimal memory footprint.
+  * Projects and code examples.
