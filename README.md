@@ -7,18 +7,6 @@ I am a Cybersecurity Bachelor student based in Belgium. I am passionate about em
 In my academic curriculum, I am currently developing skills in programming languages like PHP, JavaScript, and Python, as well as managing operating systems such as Linux and Windows Server.
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
-https://www.youtube.com/@antoinepolo5138
-https://www.instagram.com/antoine_polo_/
-https://www.linkedin.com/in/antoine-polo-779380398/
-https://discord.com/users/673273582033436735
-https://play.picoctf.org/users/AntoinePolo -> Ajoute la case
-
-<div align="left">
   <a href="https://www.youtube.com/@antoinepolo5138" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo" />
   </a>
