@@ -41,3 +41,6 @@ In my academic curriculum, I am currently developing skills in programming langu
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="30" alt="windows logo"/>
 </div>
+
+### 🛠 Current Projects
+* [**AVR ATtiny13 Libs**](...) ![C](https://img.shields.io/badge/Language-C-blue) ![AVR](https://img.shields.io/badge/MCU-AVR-orange)
