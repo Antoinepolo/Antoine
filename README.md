@@ -47,3 +47,9 @@ In my academic curriculum, I am currently developing skills in programming langu
   * Highly optimized, bare-metal C libraries for ATtiny and ATmega microcontrollers.
   * Focused on direct register manipulation and minimal memory footprint.
   * Projects and code examples.
+
+### 🌍 Maker Hub
+* [**Arduino Documentation & Electronics Engineering**](https://github.com/Antoinepolo/makerhub-docs/tree/main) <sub>![Website](https://img.shields.io/badge/Website-GitHub-lightgrey) ![Arduino](https://img.shields.io/badge/Platform-Arduino-blue) ![Electronic](https://img.shields.io/badge/Field-Electronic-green)</sub>
+  * Tutorials on how to program Arduino, from basics to 32-bit boards
+  * Libraries for components to make programming easy
+  * Developing new libraries for components when they don't already exist
